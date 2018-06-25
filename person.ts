@@ -1,0 +1,8 @@
+
+// Module system using export & imports
+
+export interface Person {
+    firstName : string;
+    lastName : string;
+    age : number;
+}
